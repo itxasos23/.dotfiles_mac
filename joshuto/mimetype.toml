@@ -1,0 +1,6 @@
+[class]
+text_default	= [
+	{ command = "lvim", fork = true, silent = true }
+  ]
+
+
